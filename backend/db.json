@@ -1,13 +1,13 @@
 {
   "users": [
     {
-      "name": "Raphael Foda",
+      "name": "Raphael",
       "email": "francisco.raphaelfreitas@gmail.com",
       "id": 1
     },
     {
-      "name": "Andrew Gay",
-      "email": "limamax830@gmail.com",
+      "name": "Andrew",
+      "email": "exemplo@gmail.com",
       "id": 2
     }
   ]
