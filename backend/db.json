@@ -1,9 +1,14 @@
 {
   "users": [
     {
-      "name": "jhjjjjjjhhhhh",
+      "name": "Raphael Foda",
       "email": "francisco.raphaelfreitas@gmail.com",
       "id": 1
+    },
+    {
+      "name": "Andrew Gay",
+      "email": "limamax830@gmail.com",
+      "id": 2
     }
   ]
 }
